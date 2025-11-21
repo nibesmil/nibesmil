@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0000FF&text=안녕하세요%20\n반갑습니다)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ansanthesoloist%20GitHub)
