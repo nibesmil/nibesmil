@@ -24,8 +24,6 @@
 ### Database  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PuTTY-35495E?style=flat&logo=putty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WinSCP-009639?style=flat&logo=winscp&logoColor=white"/>
 </p>
 
 ### Tools  
