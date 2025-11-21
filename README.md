@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ansanthesoloist%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=안녕하세요.&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=ansanthesoloist %20Github 방문을 %20환영합니다.)
